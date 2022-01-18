@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "26f37210-fd4a-4b2a-ace7-e2992b77d4d0": {
+      "ProjectGuid": "26f37210-fd4a-4b2a-ace7-e2992b77d4d0",
+      "DisplayName": "ConsoleApp1",
+      "ColorIndex": 0
+    },
+    "2d400c8b-bcec-46c2-b02d-518f4639df2f": {
+      "ProjectGuid": "2d400c8b-bcec-46c2-b02d-518f4639df2f",
+      "DisplayName": "SeleniumTest",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
